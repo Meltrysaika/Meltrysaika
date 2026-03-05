@@ -25,3 +25,6 @@ https://github-stats-extended.vercel.app/frontend 生成
 -->
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Meltrysaika&layout=compact&langs_count=8&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Meltrysaika&layout=compact&langs_count=8&theme=dark)
 
+
+![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/badge?username=Meltlilithsama&theme=dark)
+
