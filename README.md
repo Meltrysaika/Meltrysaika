@@ -15,7 +15,7 @@ Hello，this is *Meltrysaika* .
 
 ![](https://img.shields.io/badge/cpp-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
-![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF)
+![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
 ![](https://img.shields.io/badge/C%23-99CC00?style=for-the-badge&logo=sharp&logoColor=FFFFFF)
 
 **skills**
@@ -26,6 +26,7 @@ Hello，this is *Meltrysaika* .
 ![](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 
 <!--
